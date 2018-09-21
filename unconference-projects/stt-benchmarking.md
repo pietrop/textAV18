@@ -1,5 +1,11 @@
 # STT Benchmarking
 
+Github repo: \(see issues\)
+
+[https://github.com/maboa/stt-benchmarking](https://github.com/maboa/stt-benchmarking)
+
+{% embed data="{\"url\":\"https://github.com/maboa/stt-benchmarking\",\"type\":\"link\",\"title\":\"maboa/stt-benchmarking\",\"description\":\"a place to discuss and create an independent speech-to-text benchmarking tool - maboa/stt-benchmarking\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars2.githubusercontent.com/u/208756?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+
 google doc notes  
 [https://docs.google.com/document/d/14BKrWuK4Wkqr\_IYYU2OjBu1QrpwiLdj7XEKMn6tbC4U/edit](https://docs.google.com/document/d/14BKrWuK4Wkqr_IYYU2OjBu1QrpwiLdj7XEKMn6tbC4U/edit)
 
