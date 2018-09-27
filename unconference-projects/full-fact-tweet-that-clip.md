@@ -74,11 +74,11 @@ https://ads-api.twitter.com/4/accounts/18ce54d4x5t/draft_tweets?as_user_id=75620
 
 ### Other improvements
 
-* Creating a draft tweet with the ability to add text
-* Custom controls for the HTML5 video player, to hone in on the right timestamps
-* Sort out the video pipeline
-* Add subtitles/closed captions directly onto the video
-* Configure it to the Full Fact account
+* [ ] Creating a draft tweet with the ability to add text
+* [ ] Custom controls for the HTML5 video player, to hone in on the right timestamps
+* [ ] Sort out the video pipeline
+* [ ] Add subtitles/closed captions directly onto the video
+* [ ] Configure it to the Full Fact account
 
 \*\*\*\*
 
