@@ -4,6 +4,10 @@
 
 ...you can now see the clip of the moment they said the claim, ready to be tweeted out. After you press the tweet button it automatically tweets out the clip.
 
+{{ video place holder }}
+
+
+
 ## **Why is this helpful?** 
 
 Full Fact live factchecks Prime Ministers Questions and BBC Question Time on Twitter. Members of the team tweet out factchecks of the statements politicians and guests make.

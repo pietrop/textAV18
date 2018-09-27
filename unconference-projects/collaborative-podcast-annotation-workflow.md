@@ -1,6 +1,15 @@
+---
+description: >-
+  As a larger problem domain topic team, we were interested in standardising the
+  way annotations are modeled.
+---
+
 # Collaborative podcast annotation workflow
 
-As a larger problem domain topic team, we were interested in standardising the way annotations are modeled.
+  
+{{ video place holder }}
+
+
 
 Specifically, our team wanted to answer:
 
@@ -9,6 +18,8 @@ Specifically, our team wanted to answer:
 2. Can we use IIIF annotations for creating a script for voice devices based on a podcast?
 
 For more information, see [https://docs.google.com/presentation/d/18G1VN6LtragzBzwsbD-8LOlU8ixDyERfyRyfw5guFSk/edit?usp=sharing](https://docs.google.com/presentation/d/18G1VN6LtragzBzwsbD-8LOlU8ixDyERfyRyfw5guFSk/edit?usp=sharing) and [https://trello.com/c/CgSukfmy/40-workflow-for-collaborating-on-podcast-annotations-using-iiif](https://trello.com/c/CgSukfmy/40-workflow-for-collaborating-on-podcast-annotations-using-iiif)
+
+
 
 ## **Team**
 

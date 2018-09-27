@@ -4,6 +4,8 @@ description: Tweet Fact checking extension for Chrome
 
 # Farfetchd
 
+{{ video place holder }}
+
 ## Github repository
 
 {% embed data="{\"url\":\"https://github.com/andrewblaney/farfetchd.git\",\"type\":\"link\",\"title\":\"andrewblaney/farfetchd\",\"description\":\"🐦 Chrome extension for fact checking tweets. Contribute to andrewblaney/farfetchd development by creating an account on GitHub.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/25684874?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
@@ -20,16 +22,6 @@ We wanted people to think twice before consuming Tweets. [Fact checking](https:/
 
 Integrating with [Full Fact](https://fullfact.org/) once the API is available!
 
-## **Team**
-
-BBC Newslabs:
-
-* Andrew Blaney
-* Alvin Ourrad
-* Remi Oduyemi
-* Manish Lad
-* Eimi Okuno
-
 ## Installation
 
 1. git clone [https://github.com/andrewblaney/farfetchd.git](https://github.com/andrewblaney/farfetchd.git)
@@ -39,4 +31,14 @@ BBC Newslabs:
 5. Click `Load unpacked extension` and `Select` the project you cloned
 
 It should then appear as an item in the list of extensions – you're ready to go!
+
+## **Team**
+
+BBC Newslabs:
+
+* Andrew Blaney
+* Alvin Ourrad
+* Remi Oduyemi
+* Manish Lad
+* Eimi Okuno
 

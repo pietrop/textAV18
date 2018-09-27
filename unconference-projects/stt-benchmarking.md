@@ -1,18 +1,9 @@
 # STT Benchmarking
 
-Partcipants:  
-  
-Mark Boas \(Bad Idea Factory\)  
-Laurian Gridinoc \(Bad Idea Factory\)  
-Matt Haynes \(BBC R&D\)  
-Hina Imran \(SUMMA\)  
-Eyal Lavi \(BBC R&D\)  
-Misa Ogura \(WiDS\)  
-Will Williams \(Speechmatics\)  
-Tom Wordsworth \(Speechmatics\)  
-Levi Stoddard \(Futurestuff\)  
-  
-  
+{{ video place holder }}
+
+
+
 Github repo: \(see issues\)
 
 [https://github.com/maboa/stt-benchmarking](https://github.com/maboa/stt-benchmarking)
@@ -26,5 +17,13 @@ google doc notes
 
 ## **Team**
 
-
+* Mark Boas \(Bad Idea Factory\)
+* Laurian Gridinoc \(Bad Idea Factory\)
+* Matt Haynes \(BBC R&D\)
+* Hina Imran \(SUMMA\)
+* Eyal Lavi \(BBC R&D\)
+* Misa Ogura \(WiDS\)
+* Will Williams \(Speechmatics\)
+* Tom Wordsworth \(Speechmatics\)
+* Levi Stoddard \(Futurestuff\)
 
