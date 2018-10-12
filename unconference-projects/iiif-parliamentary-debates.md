@@ -1,7 +1,3 @@
----
-description: A two part project
----
-
 # IIIF Interactive Transcript - Parliamentary Debates
 
 One of the demos on Day 1 of BBCTextAV was the BBC's FastForward, which synchronises scrubbing of video with the text transcript \(navigating through either video or text changes your position in the other\).

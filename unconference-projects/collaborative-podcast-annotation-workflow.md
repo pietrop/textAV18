@@ -1,9 +1,3 @@
----
-description: >-
-  As a larger problem domain topic team, we were interested in standardising the
-  way annotations are modeled.
----
-
 # Collaborative podcast annotation workflow
 
 {% embed url="https://youtu.be/yF-pKKshnfE" %}

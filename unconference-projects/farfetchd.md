@@ -1,7 +1,3 @@
----
-description: Tweet Fact checking extension for Chrome
----
-
 # Farfetchd
 
 {% embed url="https://youtu.be/TZKE3MueuUE" %}
