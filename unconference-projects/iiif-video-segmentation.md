@@ -1,6 +1,6 @@
 # IIIF video segmentation
 
-{{ video place holder }}
+{% embed url="https://youtu.be/BvKlv5N8bT0" %}
 
 research & documentation in gDocs: [https://docs.google.com/document/d/1eA5cwKZ189Nalhcz0gMUipa\_2k0mFr103jVE1JyH\_08/edit?ts=5ba25c7c](https://docs.google.com/document/d/1eA5cwKZ189Nalhcz0gMUipa_2k0mFr103jVE1JyH_08/edit?ts=5ba25c7c)
 

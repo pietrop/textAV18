@@ -6,7 +6,7 @@ description: A two part project
 
 One of the demos on Day 1 of BBCTextAV was the BBC's FastForward, which synchronises scrubbing of video with the text transcript \(navigating through either video or text changes your position in the other\).
 
-{{ video place holder }}
+{% embed url="https://youtu.be/QIdPk7BX\_Fc" %}
 
 This would be useful functionality to have available for [IIIF](https://iiif.io/api/presentation/3.0/) AV content, where the text transcript comprises textual annotations on the time dimension of the canvas. So we decided to build a proof of concept viewer. 
 

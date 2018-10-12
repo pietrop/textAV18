@@ -6,8 +6,7 @@ description: >-
 
 # Collaborative podcast annotation workflow
 
-  
-{{ video place holder }}
+{% embed url="https://youtu.be/yF-pKKshnfE" %}
 
 
 

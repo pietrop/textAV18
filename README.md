@@ -29,9 +29,9 @@ For last year's documentation see
 
 
 
-{% embed data="{\"url\":\"https://textav.gitbook.io/textav-event/\",\"type\":\"link\",\"title\":\"Introduction - textav-event-2017\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-LKMeulnkyJTHTxeqP6K%2Favatar.png?generation=1534774194631198&alt=media\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.gitbook.com/share/space/thumbnail/-LKMeulnkyJTHTxeqP6K.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+{% embed url="https://textav.gitbook.io/textav-event/" %}
 
 or
 
-{% embed data="{\"url\":\"https://github.com/pietrop/textAV17\",\"type\":\"link\",\"title\":\"pietrop/textAV17\",\"description\":\"Notes and videos from textAV17 . Contribute to pietrop/textAV17 development by creating an account on GitHub.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/4661975?s=400&v=4\",\"width\":372,\"height\":372,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/pietrop/textAV17" %}
 

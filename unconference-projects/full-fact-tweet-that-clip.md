@@ -4,7 +4,7 @@
 
 ...you can now see the clip of the moment they said the claim, ready to be tweeted out. After you press the tweet button it automatically tweets out the clip.
 
-{{ video place holder }}
+{% embed url="https://youtu.be/ExzTgsPDEH8" %}
 
 
 
@@ -36,7 +36,7 @@ Everything is a little broken, and the sentences are a bit weird, _but_ you can 
 
 And when you click tweet...
 
-{% embed data="{\"url\":\"https://twitter.com/pietropassarell/status/1042435448398864384\",\"type\":\"rich\",\"title\":\"Pietro on Twitter\",\"description\":\"The Trussell Trust found that food bank use increased by 52% in a year in areas where Universal Credit has been rolled out. The National Audit Office observed similar findings https://t.co/b9KtuYnUWx pic.twitter.com/PitSWJwgZI— Pietro \(@pietropassarell\) September 19, 2018\\n\\n\",\"icon\":{\"type\":\"icon\",\"url\":\"https://abs.twimg.com/icons/apple-touch-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://pbs.twimg.com/ext\_tw\_video\_thumb/1042435426760503303/pu/img/6I1ABCAzFOpeh5\_y.jpg\",\"width\":1200,\"height\":668,\"aspectRatio\":0.5566666666666666},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\\"twitter-tweet\\\" data-dnt=\\\"true\\\" align=\\\"center\\\"><p lang=\\\"en\\\" dir=\\\"ltr\\\">The Trussell Trust found that food bank use increased by 52% in a year in areas where Universal Credit has been rolled out. The National Audit Office observed similar findings <a href=\\\"https://t.co/b9KtuYnUWx\\\">https://t.co/b9KtuYnUWx</a> <a href=\\\"https://t.co/PitSWJwgZI\\\">pic.twitter.com/PitSWJwgZI</a></p>&mdash; Pietro \(@pietropassarell\) <a href=\\\"https://twitter.com/pietropassarell/status/1042435448398864384?ref\_src=twsrc%5Etfw\\\">September 19, 2018</a></blockquote>\\n<script async src=\\\"https://platform.twitter.com/widgets.js\\\" charset=\\\"utf-8\\\"></script>\\n\",\"maxWidth\":550,\"aspectRatio\":1}}" %}
+{% embed url="https://twitter.com/pietropassarell/status/1042435448398864384" %}
 
 **Slides:** [https://docs.google.com/presentation/d/1uEjC8hpJGVkvXLH4i9\_tmwPHON77UrrS4nzTKLth46U/edit\#slide=id.g42107b0f4e\_0\_59](https://docs.google.com/presentation/d/1uEjC8hpJGVkvXLH4i9_tmwPHON77UrrS4nzTKLth46U/edit#slide=id.g42107b0f4e_0_59) 
 
@@ -46,11 +46,11 @@ And when you click tweet...
 
 Node module to tweet to clip + text status
 
-{% embed data="{\"url\":\"https://github.com/pietrop/tweet-that-clip\",\"type\":\"link\",\"title\":\"pietrop/tweet-that-clip\",\"description\":\"Tweet a video clip from a video, with optional text status - pietrop/tweet-that-clip\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/4661975?s=400&v=4\",\"width\":372,\"height\":372,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/pietrop/tweet-that-clip" %}
 
 Example server micro-service 
 
-{% embed data="{\"url\":\"https://github.com/pietrop/tweet-that-clip-server\",\"type\":\"link\",\"title\":\"pietrop/tweet-that-clip-server\",\"description\":\"an example server to create an end point for the \`tweet-that-clip\` module  \(https://github.com/pietrop/tweet-that-clip\) - pietrop/tweet-that-clip-server\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/4661975?s=400&v=4\",\"width\":372,\"height\":372,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/pietrop/tweet-that-clip-server" %}
 
 ## Next up 
 
