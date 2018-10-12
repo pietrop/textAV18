@@ -29,4 +29,5 @@ UV version of demo: [http://universalviewer.io/examples/\#?manifest=https%3A%2F%
 * Philo van Kemenade
 * Zack Ellis
 * Elena Walton
+* Ed Silverton
 
