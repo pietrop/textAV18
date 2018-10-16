@@ -1,6 +1,6 @@
 # autoEdit Panel for Adobe CEP - Pietro
 
-{{ video place holder }}
+{% embed url="https://youtu.be/z\_ZwV7CISj4" %}
 
 
 
