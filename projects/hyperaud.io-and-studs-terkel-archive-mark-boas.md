@@ -1,6 +1,6 @@
 # Hyperaud.io & Studs Terkel Archive - Mark Boas
 
-{{video place holder }}
+{% embed url="https://youtu.be/Al\_IvrUA1g8" %}
 
 Built upon and expanding Hyperaudio technology the Studs Terkel Radio Archive allows people to share snippets and remix a number of interviews with historical figures such as Simone De Beauvoir to Hunter S Thompson.
 
