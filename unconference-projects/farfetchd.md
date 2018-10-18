@@ -2,6 +2,8 @@
 
 {% embed url="https://youtu.be/TZKE3MueuUE" %}
 
+[https://youtu.be/TZKE3MueuUE](https://youtu.be/TZKE3MueuUE)
+
 ## Github repository
 
 {% embed url="https://github.com/andrewblaney/farfetchd.git" %}
