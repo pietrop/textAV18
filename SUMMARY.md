@@ -19,6 +19,7 @@
 
 ## Unconference Projects
 
+* [Un-conference Pitches](unconference-projects/un-conference-pitches.md)
 * [Full Fact - tweet that clip](unconference-projects/full-fact-tweet-that-clip.md)
 * ["Selective Hearing" - Concept Clustering in Podcasts](unconference-projects/sean.md)
 * [Collaborative podcast annotation workflow](unconference-projects/collaborative-podcast-annotation-workflow.md)
