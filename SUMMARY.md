@@ -26,5 +26,5 @@
 * ["Selective Hearing" - Concept Clustering in Podcasts](unconference-projects/sean.md)
 * [IIIF video segmentation](unconference-projects/iiif-video-segmentation.md)
 * [IIIF Interactive Transcript - Parliamentary Debates](unconference-projects/iiif-parliamentary-debates.md)
-* [Collaborative podcast annotation workflow](unconference-projects/collaborative-podcast-annotation-workflow.md)
+* [IFF Collaborative podcast annotation workflow](unconference-projects/collaborative-podcast-annotation-workflow.md)
 
