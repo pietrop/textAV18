@@ -12,7 +12,9 @@ Links to code:
 
 ## Team
 
-Sean Tracey 
-
+- Sean Tracey 
+- Dawn Budge
+- Rob Squires
+- Luke Griffiths
 
 
