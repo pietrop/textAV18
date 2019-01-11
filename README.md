@@ -36,4 +36,7 @@ or
 {% embed url="https://github.com/pietrop/textAV17" %}
 
 
+You can also read [Roundup: Hacking automated transcription technologies at Text AV](https://medium.com/bbc-news-labs/roundup-hacking-automated-transcription-technologies-at-text-av-4afd1eb4e71b)
+
+
 
