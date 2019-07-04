@@ -35,7 +35,6 @@ It should then appear as an item in the list of extensions – you're ready to g
 BBC Newslabs:
 
 * Andrew Blaney
-* Alvin Ourrad
 * Remi Oduyemi
 * Manish Lad
 * Eimi Okuno
